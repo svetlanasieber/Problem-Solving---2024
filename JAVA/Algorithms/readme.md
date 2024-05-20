@@ -8,3 +8,5 @@ So a range [i, j] can be broken into two groups like {[i, i+1], [i+1, j]}, {[i, 
 
 Each of the groups can be further partitioned into smaller groups and we can find the total required multiplications by solving for each of the groups.
 The minimum number of multiplications among all the first partitions is the required answer.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
