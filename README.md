@@ -1,1 +1,4 @@
-# Problem-Solvin---2024
+# Problem-Solving ---2024
+
+# Data Structures
+# Algorithms
